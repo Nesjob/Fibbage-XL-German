@@ -1,0 +1,299 @@
+{
+  "content": [
+    {
+      "x": true,
+      "id": 15383,
+      "category": "Queen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15345,
+      "category": "Stachelschweine",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15322,
+      "category": "Geheimcode",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15271,
+      "category": "Hafer",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15265,
+      "category": "Pepsi",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15120,
+      "category": "Inseln",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15118,
+      "category": "Raumschiff",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15117,
+      "category": "Bingo",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15791,
+      "category": "Zahn",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15814,
+      "category": "Marine",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15835,
+      "category": "Zigaretten",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15863,
+      "category": "Kunststoff",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15888,
+      "category": "Schluckauf",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15985,
+      "category": "Feuerstein",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15119,
+      "category": "Fluchen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15116,
+      "category": "Fraggle",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16046,
+      "category": "Akademie",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16050,
+      "category": "Michelin",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16150,
+      "category": "Bush",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 16214,
+      "category": "Ananas",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 16216,
+      "category": "Hockey",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15115,
+      "category": "Verkehr",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15114,
+      "category": "Houdini",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15113,
+      "category": "Enten",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15112,
+      "category": "J.",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15111,
+      "category": "Braumeister",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15110,
+      "category": "Scheiße",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15109,
+      "category": "Samsung",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15108,
+      "category": "abfällig",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15107,
+      "category": "Queen",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15106,
+      "category": "Schimpanse",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15105,
+      "category": "weiße Menschen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15104,
+      "category": "Miley",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15103,
+      "category": "Mädchen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15102,
+      "category": "Leiste",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15100,
+      "category": "Crunch",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15099,
+      "category": "Scheidung",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15098,
+      "category": "Markenname",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15096,
+      "category": "Kool-Aid",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15002,
+      "category": "Kermit",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14997,
+      "category": "suchen",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14994,
+      "category": "Oxford ",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14991,
+      "category": "Pokey",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 14590,
+      "category": "Hunde",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 14416,
+      "category": "Unterwäsche",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 15101,
+      "category": "Pferdeschwanz",
+      "bumper": ""
+    },
+    {
+      "x": true,
+      "id": 15378,
+      "category": "Spiele",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 17807,
+      "category": "Jimmy",
+      "bumper": ""
+    },
+    {
+      "x": false,
+      "id": 17808,
+      "category": "kriminell",
+      "bumper": ""
+    }
+  ],
+  "episodeid": 1211
+}
