@@ -1,0 +1,10 @@
+### Version 2017-04-21
+### by SpooX
+
+##################################################
+Changelog:
+Version 2017-04-21
+- Fehler behoben: Am Ende einer Runde konnte keine neue gestartet werden (Danke an Deren)
+
+Version 2017-02-27
+- Drawful 2 in Deutsch
