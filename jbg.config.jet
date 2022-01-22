@@ -24,7 +24,7 @@
 	"videoplayer":"true",
 	"audio-extension":".ogg",
 	"gameId":"3Mcei9GjIFpBUGwhQRtHRyGQpQUYoJfy",
-	"joinUrl":"jackbox.tv",
+	"joinUrl":"jackbox.gg",
 	"serverUrl":"ecast.jackboxgames.com",
 	"uaAppId":"fibbagexl",
 	"flashKeyboard":"true",
@@ -35,5 +35,5 @@
 	"gameShortName":"FibbageXL",
 	"release":"true",
 	"buildTimeStamp":"2020-05-15 11:06:51",
-	"buildVersion":"Build:  22.1-DE"
+	"buildVersion":"Build:  22.2-DE"
 }
